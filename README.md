@@ -1,6 +1,6 @@
 ### Olá, eu sou o Eduardo Aquiles
 
-- 🔭 Atualmente trabalhando como Adm de Sistemas de Informação na empresa Pormade Portas
+- 🔭 Atualmente trabalhando como Adm de Sistemas na empresa Pormade Portas
 - 🌱 Sou acadêmico do curso de Sistemas de Informação na Faculdade UNIUV
 
 <div align="left">
