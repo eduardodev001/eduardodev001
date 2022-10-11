@@ -1,8 +1,5 @@
 ### Olá, eu sou o Eduardo Aquiles
 
-- 🔭 Atualmente trabalhando como Adm de Sistemas na empresa Pormade Portas
-- 🌱 Sou acadêmico do curso de Sistemas de Informação na Faculdade UNIUV
-
 <div align="left">
   <a href="https://github.com/eduardodev001">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardodev001&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
