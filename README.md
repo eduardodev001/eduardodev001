@@ -1,9 +1,13 @@
 ### Olá, eu sou o Eduardo Aquiles
 <br>
+<table>
+  <tr>
 <div align="center">
   <a href="https://github.com/eduardodev001">
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eduardodev001&show_icons=true&count_private=true&hide_border=true&title_color=006400&icon_color=006400&text_color=ffffff&bg_color=000000"/> 
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodev001&layout=compact&hide_border=true&title_color=006400&text_color=ffffff&bg_color=000000" />
+    <td><img align="left" padding-right="2px" src="https://github-readme-stats.vercel.app/api?username=eduardodev001&show_icons=true&count_private=true&hide_border=true&title_color=006400&icon_color=006400&text_color=ffffff&bg_color=000000"/> </td>
+    <td><img align="left" padding-right="2px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodev001&layout=compact&hide_border=true&title_color=006400&text_color=ffffff&bg_color=000000" /></td>
+    </tr>  
+</table>    
     <br>
 <div style="display: inline_block"><br>
 <img align="center" alt="edu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
