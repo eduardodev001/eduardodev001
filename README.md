@@ -1,4 +1,14 @@
 ### Olá, eu sou o Eduardo Aquiles
+<br>
+<center>
+<table>
+  <tr>
+    <td><img align="left" padding-right="10px" src=https://github-readme-stats.vercel.app/api?username=eduardodev001&show_icons=true ></td>
+    <td><img align="left" padding-right="10px" src=https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodev001&show_icons=true&layout=compact></td>
+  </tr>  
+</table>
+</center>
+    <br>
 
 <div style="display: inline_block"><br>
 <img align="center" alt="edu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
