@@ -4,8 +4,8 @@
   <tr>
 <div align="center">
   <a href="https://github.com/eduardodev001">
-    <td><img align="left" padding-right="2px" src="https://github-readme-stats.vercel.app/api?username=eduardodev001&show_icons=true&count_private=true&hide_border=true&title_color=006400&icon_color=006400&text_color=ffffff&bg_color=000000"/> </td>
-    <td><img align="left" padding-right="2px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodev001&layout=compact&hide_border=true&title_color=006400&text_color=ffffff&bg_color=000000" /></td>
+    <td><img align="center" padding-right="15px" src="https://github-readme-stats.vercel.app/api?username=eduardodev001&show_icons=true&count_private=true&hide_border=true&title_color=006400&icon_color=006400&text_color=ffffff&bg_color=000000"/> </td>
+    <td><img align="center" padding-right="15px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodev001&layout=compact&hide_border=true&title_color=006400&text_color=ffffff&bg_color=000000" /></td>
     </tr>  
 </table>    
     <br>
