@@ -3,10 +3,17 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/eduardodev001">
-    <img height="180" src="https://SEU-PROJETO.vercel.app/api?username=eduardodev001&show_icons=true&count_private=true&hide_border=true&title_color=006400&icon_color=006400&text_color=ffffff&bg_color=000000" />
-    <img height="180" src="https://SEU-PROJETO.vercel.app/api/top-langs/?username=eduardodev001&layout=compact&hide_border=true&title_color=006400&text_color=ffffff&bg_color=000000" />
-  </a>
+  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" />
+</div>
+
+<div align="center">
+  <img height="170" src="./profile-summary-card-output/github_dark/3-stats.svg" />
+  <img height="170" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" />
+</div>
+
+<div align="center">
+  <img height="170" src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" />
+  <img height="170" src="./profile-summary-card-output/github_dark/4-productive-time.svg" />
 </div>
 
 <br>
