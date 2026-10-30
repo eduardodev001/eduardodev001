@@ -21,12 +21,6 @@
 <br>
 
 <div align="center">
-  <img alt="Cobrinha comendo as contribuições" src="https://raw.githubusercontent.com/eduardodev001/eduardodev001/output/github-snake-blue.svg" />
-</div>
-
-<br>
-
-<div align="center">
   <img alt="HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img alt="CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
@@ -38,4 +32,10 @@
   <img alt="Claude" height="40" width="40" src="./assets/claude.svg">
   <img alt="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img alt="Oracle" height="40" width="40" src="./assets/oracle.svg?v=2">
+</div>
+
+<br>
+
+<div align="center">
+  <img alt="Cobrinha comendo as contribuições" src="./snake/github-snake-blue.svg" />
 </div>
