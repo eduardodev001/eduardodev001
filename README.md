@@ -33,9 +33,3 @@
   <img alt="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img alt="Oracle" height="40" width="40" src="./assets/oracle.svg?v=2">
 </div>
-
-<br>
-
-<div align="center">
-  <img alt="Cobrinha comendo as contribuições" src="./snake/github-snake-blue.svg" />
-</div>
