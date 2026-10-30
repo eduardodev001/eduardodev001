@@ -3,17 +3,17 @@
 <br>
 
 <div align="center">
-  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg?v=2" />
+  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg?v=3" />
 </div>
 
 <div align="center">
-  <img height="170" src="./profile-summary-card-output/github_dark/3-stats.svg?v=2" />
-  <img height="170" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg?v=2" />
+  <img height="170" src="./profile-summary-card-output/github_dark/3-stats.svg?v=3" />
+  <img height="170" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg?v=3" />
 </div>
 
 <div align="center">
-  <img height="170" src="./profile-summary-card-output/github_dark/1-repos-per-language.svg?v=2" />
-  <img height="170" src="./profile-summary-card-output/github_dark/4-productive-time.svg?v=2" />
+  <img height="170" src="./profile-summary-card-output/github_dark/1-repos-per-language.svg?v=3" />
+  <img height="170" src="./profile-summary-card-output/github_dark/4-productive-time.svg?v=3" />
 </div>
 
 <br>
